@@ -1,0 +1,29 @@
+{
+  "name": "assignment-6-ashishshinde03",
+  "version": "1.0.0",
+  "description": "Base repo for assignment 6<br>",
+  "private": "true",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/assignment-6-AshishShinde03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/assignment-6-AshishShinde03.git"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/assignment-6-AshishShinde03.git#readme",
+  "devDependencies": {
+    "css-loader": "^6.6.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.4.0"
+  },
+  "main": "webpack.config.js"
+}

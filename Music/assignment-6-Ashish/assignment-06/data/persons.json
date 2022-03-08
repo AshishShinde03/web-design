@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Complete Assignment",
+        "description": "INFO 6150",
+        "date": "2022-05-03",
+        "time": "09:00"       
+    },
+    {
+        "title": "Study Midterm",
+        "description": "JavaScript",
+        "date": "2022-07-03",
+        "time": "11:30"   
+    }
+]

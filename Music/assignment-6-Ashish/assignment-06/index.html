@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="dist/main.css" />
+    <title>To Do List</title>
+  </head>
+  <body>
+    <!-- Running text -->
+    <h1>To Do List</h1>
+    <h3>Please enter title, description, date and time</h3>
+    <h5>Remove button will delete the todo</h5>
+    <h5>Mark button will hide the todo</h5>
+    <div class="container">
+      <!-- To-to addition fields -->
+      <input id="inputField" type="text" placeholder="Enter Title" />
+      <input id="inputdesc" type="text" placeholder="Enter Description" />
+      <input id="inputdate" type="date" />
+      <input id="inputtime" type="time" />
+      <!-- Add button -->
+      <button id="addToDo">Add</button>
+      <!-- Todo list -->
+      <div class="to-dos" id="toDoContainer"></div>
+    </div>
+
+    <script src="app/main.js"></script>
+  </body>
+</html>
